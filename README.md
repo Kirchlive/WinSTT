@@ -1,4 +1,4 @@
-# 🎤 WinSTT - Enhanced Python 3.13 + GPU Edition
+# <img src="https://raw.githubusercontent.com/dahshury/WinSTT/refs/heads/main/media/Windows%201%20Theta.ico" width="32" height="32"> WinSTT - Enhanced Python 3.13 + GPU Edition
 
 **Advanced Speech-to-Text for Windows with GPU acceleration and modern Python support**
 
@@ -6,6 +6,12 @@
 ![CUDA 12.9](https://img.shields.io/badge/CUDA-12.9-green.svg)
 ![GPU Accelerated](https://img.shields.io/badge/GPU-Accelerated-red.svg)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
+
+## 📸 Application Screenshot
+
+![WinSTT Interface](https://i.imgur.com/3opVw6y.png)
+
+*WinSTT running with enhanced Python 3.13 + GPU acceleration - Real-time speech recognition with professional UI*
 
 ## 🚀 Key Features
 
