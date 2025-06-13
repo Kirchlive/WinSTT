@@ -7,8 +7,6 @@
 ![GPU Accelerated](https://img.shields.io/badge/GPU-Accelerated-red.svg)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
 
-## 📸 Application Screenshot
-
 ![WinSTT Interface](https://i.imgur.com/3opVw6y.png)
 
 *WinSTT running with enhanced Python 3.13 + GPU acceleration - Real-time speech recognition with professional UI*
